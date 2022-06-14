@@ -13,7 +13,7 @@ const WhatGPT3 = () => (
     </div>
     <div className="gpt3__whatgpt3-container">
       <Feature title="Didn't get it?" text="MyVerse is simply a portfolio blog but exists with extended features and gives off a cooler vibe to the website as well to the ones who are viewing it." />
-      <Feature title="Is everything ready?" text="Good things take and great things take further more. So, you know the grind, overall it's something which is endless so I'll keep contributing and extending the concept of it." />
+      <Feature title="Is everything ready?" text="Good things take time and great things take further more. So, you know the grind, overall it's something which is endless so I'll keep contributing and extending MyVerse." />
       <Feature title="Can I contribute?" text="If you are a developer with a sense of passion and slight craziness or representing an organization who's interested to invest their time in it are free to contribute in this." />
     </div>
   </div>
